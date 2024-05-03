@@ -1,2 +1,2 @@
-# didactic-eureka
-Audio network system design and development
+# Interactive Audio Network System
+
