@@ -12,4 +12,4 @@
 4. You are ready for some fun!
 
 ## Example Setup JACK
-[Untitled drawio](https://github.com/JellyTree0214/didactic-eureka/assets/83326285/08fad6be-ca82-4890-bc32-00e8b86c3baf)
+![Untitled drawio](https://github.com/JellyTree0214/didactic-eureka/assets/83326285/08fad6be-ca82-4890-bc32-00e8b86c3baf)
