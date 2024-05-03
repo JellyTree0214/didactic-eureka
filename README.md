@@ -10,3 +10,7 @@
 2. Run Max MSP
 3. Run the python script
 4. You are ready for some fun!
+
+## Example Setup Jack
+1. With 4 speakers
+![Untitled drawio](https://github.com/JellyTree0214/didactic-eureka/assets/83326285/08fad6be-ca82-4890-bc32-00e8b86c3baf)
